@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Elizabeth, practicing markdown.
+## Mardown is fun. 
+### GitHub is amazing.
