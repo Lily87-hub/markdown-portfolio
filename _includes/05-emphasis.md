@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am **determined**, and __patient__. The programming languages I know are *Python* and *JavaScript*. I am good at _organising events_ and _cooking_.
